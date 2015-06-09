@@ -1,0 +1,30 @@
+{
+	"name": "gobble-jscs",
+	"version": "0.1.0",
+	"description": "Check JavaScript files with gobble and jscs",
+	"homepage": "https://github.com/MartinKolarik/gobble-jscs/",
+	"github": "https://github.com/MartinKolarik/gobble-jscs/",
+	"author": {
+		"name": "Martin Kolárik",
+		"email": "martin@kolarik.sk",
+		"url": "https://kolarik.me"
+	},
+	"keywords": [
+		"gobble",
+		"gobble-plugin",
+		"jscs"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"findup-sync": "~0.2.1",
+		"jscs": "~1.13.1",
+		"sander": "~0.3.4"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MartinKolarik/gobble-jscs.git"
+	},
+	"bugs": {
+		"url": "https://github.com/MartinKolarik/gobble-jscs/issues/"
+	}
+}
